@@ -12,7 +12,6 @@ Used couple of font icon versions (free packages for fonts):
 
 @fortawesome/react-fontawesome: Wrap up for fontawesome so this can be easily used on React.
 
-Solid Icons: Used for the navigation on the left side.
 
 animate.css: CSS library for animating the objects and fonts
 
