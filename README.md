@@ -5,8 +5,11 @@
 @emailjs/browser: Used to implement the contact form.
 
 Used couple of font icon versions (free packages for fonts):
+
 @fortawesome/free-brands-svg-icons: Package for font-icons.
+
 @fortawesome/free-solid-svg-icons: Used for the navigation on the left side.
+
 @fortawesome/react-fontawesome: Wrap up for fontawesome so this can be easily used on React.
 
 Solid Icons: Used for the navigation on the left side.
